@@ -1,0 +1,42 @@
+section{
+	width: 100px;
+	height: 50px;
+	padding: 10px;
+	margin: 5px;
+	border: 2px solid black;
+}
+div{
+	
+	height: 150px;
+	width: 12px;
+	display: table-cell;
+}
+td{
+	text-align: center;
+	font-family: monospace;
+	color: red;
+	font-size: 150%;
+	font-style: bold;
+}
+img
+{
+	background-color: black;
+	padding: 2px;
+	border: 5px solid blue;
+	margin: 200px;
+    margin: 0 auto;
+    width: 140px;
+
+}
+body
+{
+	background-color: #87CEFA;
+}
+h1{
+	padding: 5px;
+	text-shadow: 10px;
+	text-align: center;
+	background-color: blue;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 200%;
+}
